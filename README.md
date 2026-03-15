@@ -129,7 +129,7 @@ Table comparing shop types based on:
 
 <h2>📷 Dashboard Preview</h2>
 
-<a href=" " > View Dashboard</a>
+<a href="https://github.com/Pranita-Redekar/Swiggy-Instamart-Sales-Performance-Dashboard-Power-BI/tree/main/Dashboard" > View Dashboard</a>
 
 
 
