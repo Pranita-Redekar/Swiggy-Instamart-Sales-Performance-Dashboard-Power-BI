@@ -124,12 +124,14 @@ Table comparing shop types based on:
 </ul>
 
 <hr>
+<h2><a class="anchor" id="dataset">Dataset</a></h2>
+<a href="                ">View Dataset</a>
 
 <h2>📷 Dashboard Preview</h2>
 
-<p>Replace the image file name with your dashboard screenshot.</p>
+<a href=" " > View Dashboard</a>
 
-<img src="dashboard.png" width="800">
+
 
 <hr>
 
@@ -154,6 +156,8 @@ transform raw data into actionable business insights.
 
 <h2>👩‍💻 Author</h2>
 <p>
-<b>Pranita Redekar</b><br>
+<b>Pranita Redekar</b><br> 
+Data Analyst<br>
+🔗 [LinkedIn](linkedin.com/in/pranita-redekar  )  
 
 </p>
