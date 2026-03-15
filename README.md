@@ -1,4 +1,4 @@
-<h1 align="center">📊 Swiggy Instamart Sales & Performance Analytics Dashboard</h1>
+<h1 align="center">📊 Swiggy Instamart Sales Performance Dashboard</h1>
 
 <h2>📌 Project Overview</h2>
 <p>
@@ -125,7 +125,7 @@ Table comparing shop types based on:
 
 <hr>
 <h2><a class="anchor" id="dataset">Dataset</a></h2>
-<a href="                ">View Dataset</a>
+<a href="https://github.com/Pranita-Redekar/Swiggy-Instamart-Sales-Performance-Dashboard-Power-BI/blob/main/Instamart_Data.xlsx ">View Dataset</a>
 
 <h2>📷 Dashboard Preview</h2>
 
